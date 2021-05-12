@@ -4,7 +4,7 @@ const vscode = require('vscode');
 
 // this method is called when your extension is activated
 // your extension is activated the very first time the command is executed
-
+// 测试提交
 /**
  * @param {vscode.ExtensionContext} context
  */
